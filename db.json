@@ -1,0 +1,94 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Suç ve Ceza",
+      "author": "Fyodor Dostoyevski",
+      "image": "https://picsum.photos/800/801",
+      "year": 2024,
+      "page": 211,
+      "description": "Bir adamın suç ve ceza ile mücadelesi."
+    },
+    {
+      "id": 2,
+      "title": "Savaş ve Barış",
+      "author": "Leo Tolstoy",
+      "image": "https://picsum.photos/800/802",
+      "year": 1869,
+      "page": 1225,
+      "description": "Napolyon'un Rusya seferi sırasında dört aristokrat aileye odaklanan epik bir roman."
+    },
+    {
+      "id": 3,
+      "title": "Beyaz Geceler",
+      "author": "Fyodor Dostoyevski",
+      "image": "https://picsum.photos/800/803",
+      "year": 1848,
+      "page": 120,
+      "description": "Bir adamın St. Petersburg'daki yalnızlığını ve hayallerini anlatan kısa bir hikaye."
+    },
+    {
+      "id": 4,
+      "title": "Anna Karenina",
+      "author": "Leo Tolstoy",
+      "image": "https://picsum.photos/800/804",
+      "year": 1877,
+      "page": 864,
+      "description": "Yasak aşk, aile ve toplumun normlarını sorgulayan bir roman."
+    },
+    {
+      "id": 5,
+      "title": "Yeraltından Notlar",
+      "author": "Fyodor Dostoyevski",
+      "image": "https://picsum.photos/800/805",
+      "year": 1864,
+      "page": 203,
+      "description": "Toplumdan uzaklaşmış bir adamın içsel monologlarını içeren felsefi bir roman."
+    },
+    {
+      "id": 6,
+      "title": "Karamazov Kardeşler",
+      "author": "Fyodor Dostoyevski",
+      "image": "https://picsum.photos/800/806",
+      "year": 1880,
+      "page": 840,
+      "description": "Üç kardeşin babalarının ölümünden sonra yaşadığı çatışmalar ve ahlaki sorgulamalar."
+    },
+    {
+      "id": 7,
+      "title": "İnsancıklar",
+      "author": "Fyodor Dostoyevski",
+      "image": "https://picsum.photos/800/807",
+      "year": 1846,
+      "page": 176,
+      "description": "Yoksul bir memurun bir kadına olan sevgisi ve mektuplaşmaları üzerine kurulu roman."
+    },
+    {
+      "id": 8,
+      "title": "Gurur ve Önyargı",
+      "author": "Jane Austen",
+      "image": "https://picsum.photos/800/808",
+      "year": 1813,
+      "page": 279,
+      "description": "Aşk, sınıf farklılıkları ve önyargılar üzerine bir roman."
+    },
+    {
+      "id": 9,
+      "title": "Madame Bovary",
+      "author": "Gustave Flaubert",
+      "image": "https://picsum.photos/800/809",
+      "year": 1857,
+      "page": 342,
+      "description": "Bir kadının monoton bir evlilikten kaçışını ve trajik sonunu anlatan roman."
+    },
+    {
+      "id": 10,
+      "title": "Moby Dick",
+      "author": "Herman Melville",
+      "image": "https://picsum.photos/800/810",
+      "year": 1851,
+      "page": 635,
+      "description": "Bir denizcinin beyaz bir balinayı avlama takıntısını anlatan epik bir macera."
+    }
+  ]
+}
