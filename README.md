@@ -1,6 +1,6 @@
 # React + Vite
 
-Bu proje, React ve Vite kullanılarak oluşturulmuş modern bir e-ticaret sitesidir. Vite sayesinde hızlı ve verimli bir geliştirme ortamı sağlanmıştır. Axios kullanılarak ürün verileri ve kullanıcı işlemleri için API istekleri yapılmıştır. 
+Bu proje, React ve Vite kullanılarak oluşturulmuş bir e-ticaret sitesidir. Vite sayesinde hızlı ve verimli bir geliştirme ortamı sağlanmıştır. Axios kullanılarak ürün verileri ve kullanıcı işlemleri için API istekleri yapılmıştır. 
 
 Ürün listeleme, detay sayfası gibi temel e-ticaret fonksiyonları mevcuttur. Ayrıca, yerleşik bir filtreleme ve arama özelliği ile kullanıcı deneyimi iyileştirilmiştir.
 
