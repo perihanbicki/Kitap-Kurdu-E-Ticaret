@@ -1,12 +1,13 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bu proje, React ve Vite kullanılarak oluşturulmuş modern bir e-ticaret sitesidir. Vite sayesinde hızlı ve verimli bir geliştirme ortamı sağlanmıştır. Axios kullanılarak ürün verileri ve kullanıcı işlemleri için API istekleri yapılmıştır. 
 
-Currently, two official plugins are available:
+Ürün listeleme, detay sayfası gibi temel e-ticaret fonksiyonları mevcuttur. Ayrıca, yerleşik bir filtreleme ve arama özelliği ile kullanıcı deneyimi iyileştirilmiştir.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-- 
+React Router ile çok sayfalı gezinme deneyimi sunulmuştur.
+
+Modern JavaScript standartlarına uygun olarak geliştirilmiştir.
+
 # Kitap-Kurdu-E-Ticaret
 
 ![kitap-kurdu-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/d57ed2e4-8364-403f-acbe-0a6d50661faa)
